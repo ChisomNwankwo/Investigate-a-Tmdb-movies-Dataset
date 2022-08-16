@@ -1,4 +1,4 @@
-# -Investigate-a-Tmdb-movies-Dataset
+# Investigate-a-Tmdb-movies-Dataset
 
 The dataset contains 10,000 movies collected from the movie Database(TMDb). In this project, we will be analyzing dataset containing information associated with 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
 
